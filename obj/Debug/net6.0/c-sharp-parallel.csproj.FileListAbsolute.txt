@@ -1,0 +1,15 @@
+/home/alina/Documents/C-Sharp/c-sharp-parallel/bin/Debug/net6.0/c-sharp-parallel
+/home/alina/Documents/C-Sharp/c-sharp-parallel/bin/Debug/net6.0/c-sharp-parallel.deps.json
+/home/alina/Documents/C-Sharp/c-sharp-parallel/bin/Debug/net6.0/c-sharp-parallel.runtimeconfig.json
+/home/alina/Documents/C-Sharp/c-sharp-parallel/bin/Debug/net6.0/c-sharp-parallel.dll
+/home/alina/Documents/C-Sharp/c-sharp-parallel/bin/Debug/net6.0/ref/c-sharp-parallel.dll
+/home/alina/Documents/C-Sharp/c-sharp-parallel/bin/Debug/net6.0/c-sharp-parallel.pdb
+/home/alina/Documents/C-Sharp/c-sharp-parallel/obj/Debug/net6.0/c-sharp-parallel.csproj.AssemblyReference.cache
+/home/alina/Documents/C-Sharp/c-sharp-parallel/obj/Debug/net6.0/c-sharp-parallel.GeneratedMSBuildEditorConfig.editorconfig
+/home/alina/Documents/C-Sharp/c-sharp-parallel/obj/Debug/net6.0/c-sharp-parallel.AssemblyInfoInputs.cache
+/home/alina/Documents/C-Sharp/c-sharp-parallel/obj/Debug/net6.0/c-sharp-parallel.AssemblyInfo.cs
+/home/alina/Documents/C-Sharp/c-sharp-parallel/obj/Debug/net6.0/c-sharp-parallel.csproj.CoreCompileInputs.cache
+/home/alina/Documents/C-Sharp/c-sharp-parallel/obj/Debug/net6.0/c-sharp-parallel.dll
+/home/alina/Documents/C-Sharp/c-sharp-parallel/obj/Debug/net6.0/ref/c-sharp-parallel.dll
+/home/alina/Documents/C-Sharp/c-sharp-parallel/obj/Debug/net6.0/c-sharp-parallel.pdb
+/home/alina/Documents/C-Sharp/c-sharp-parallel/obj/Debug/net6.0/c-sharp-parallel.genruntimeconfig.cache
